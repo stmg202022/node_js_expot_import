@@ -1,0 +1,3 @@
+
+for more info about export and import u can see it on:
+https://www.geeksforgeeks.org/import-and-export-in-node-js/
